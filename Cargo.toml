@@ -2,6 +2,12 @@
 name = "groq-rust"
 version = "0.1.0"
 edition = "2021"
+authors = ["Jonathan Gruner <jogru0@gmail.com>"]
+description = "SDK for Groq in Rust"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/jogru0/groq-rust"
+readme = "README.md"
+exclude = [".vscode"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
